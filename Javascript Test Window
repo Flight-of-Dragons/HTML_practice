@@ -1,0 +1,43 @@
+<!Doctype HTML>
+
+<HTML Lang = "en">
+
+    <Head>
+
+        <meta char = "UTF-8"/>
+
+        <Title>
+            Test Window
+        </Title>
+
+    </Head>
+
+    <Body>
+
+        <p id = "Demo">
+            Paragraph 1
+        </p>
+
+        </p id = "pong">
+            Paragraph 2
+        </p>
+
+    </Body>
+
+    <Script>
+
+        function filterWords(phrase) {
+
+            w = phrase.match("Bad!","MEAN!");
+
+            return w;
+
+        }
+
+        document.getElementById("Demo").innerHTML = filterWords("You're Bad! timmy!");
+
+        document.getElementById("pong").innerHTML = filterWords("You're MEAN! timmy!");
+
+    </Script>
+
+</HTML>

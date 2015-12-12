@@ -1,0 +1,34 @@
+Body	{
+		margin:0px;
+	}
+div	{	width:750px;
+	 	height:150px;
+		border:1px solid #000000;
+		color:black;
+		font-weight:bold;
+		text-align:left;
+		margin:10px;
+		padding:10px;
+		
+	}
+
+#d1	{
+		background-color:#FF9999;
+		
+	}
+
+#d2	{
+		background-color:#99FF99;
+		
+	}
+
+div#d3	{
+		background-color:#CC9966;
+		
+	}
+
+div#d4	{
+		background-color:#FFFF66;
+		
+	}
+

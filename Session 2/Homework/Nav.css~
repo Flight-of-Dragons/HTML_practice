@@ -1,0 +1,5 @@
+#logo {float:left;}
+
+#horizontal {padding-left:100px; display:block;}
+
+#vertical {float:left; padding:0px 30px 350px 30px;}

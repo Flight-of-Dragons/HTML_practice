@@ -1,0 +1,47 @@
+﻿div {
+	border:1px solid #000000;
+	}
+
+#top {
+	margin:20px;
+	padding:10px;
+	background:#ccc;
+	height:100px;
+	}
+
+#left {
+	position:absolute;
+	left:20px;
+	top:10px;
+	width:200px;
+	top:170px;
+	background:#ccc;
+	}
+
+#center {
+	margin-left:220px;
+	margin-right: 220px;
+	background:#ccc;
+	margin-top:0px;
+	}
+
+#right {
+	position:absolute;
+	right:20px;
+	top:10px;
+	width:200px;
+	top:170px;
+	background:#ccc;
+	}
+
+#footer {
+	background:#ccc;
+	margin:20px;
+	text-align:center;
+	}
+
+/*Removes default top margin from left/right column paragraphs in Mozilla*/
+
+div > p {
+	margin-top:0px;
+	}

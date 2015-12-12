@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html  lang="en">
+<Head>
+	<meta charset ="UTF-8">
+	<Title>Wonders</Title>
+	<link rel="stylesheet" href="nav.css">
+
+</Head>
+
+<body>
+<Header>
+	<img id="logo" src="images/logo-sm.png" alt="logo">
+	<h1>Explore The Wonders of the World</h1>
+	<nav id="horizontal">
+		<p>
+			<a href="tajmahal history.html">Tajmahal</a> |
+			<a href="eiffel history.html">Eiffel Tower</a> 	|
+			<a href="empire state.html">Empire State Building</a> 	|
+			<a href="colosseum.html">Colosseum</a> |
+			<a href="Tower.html">Tower Bridge</a> |
+	</p>
+	</nav>
+</header>
+
+<p>This world is surrounded by the various beautiful monuments that make it very special.
+ Several monuments are declared as the world's heritage site because of their architectural 
+value and history associated to them. These wonders are protected monument.
+ The wonders of world are also a great hub of tourism.</p>
+<h2>The Tajmahal</h2>
+<p>The Taj Mahal  was built by <em>Mughal emperor Shah Jahan</em> in memory of his third wife, Mumtaz Mahal. 
+The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally
+ admired masterpieces of the world's heritage".</p>
+
+<h2>The Eiffel Tower</h2>
+<p>Named after its designer, engineer <em>Gustave Eiffel</em>, the Eiffel Tower is the tallest building in Paris. 
+More than 200,000,000 have visited the tower since its construction in 1889, including 6,719,200 in 2006,
+ making it the most visited paid monument in the world. Including the 24 m (79 ft) antenna, the structure 
+is 325 m (1,063 ft) high (since 2000), which is equivalent to about 81 levels in a conventional building.
+</p>
+<h2>The Great Wall</h2>
+<p>The Great Wall of China is a series of fortifications made of <em>stone, brick, tamped earth,
+ wood, and other materials</em>, generally built along an east-to-west line across the historical northern 
+borders of China in part to protect the Chinese Empire or its prototypical states against intrusions by
+ various nomadic groups or military incursions by various warlike peoples or forces. </p>
+<h2>The Colosseum</h2>
+<p>The Colosseum, or the Coliseum, originally the <em>Flavian Amphitheatre (Latin: Amphitheatrum Flavium,
+ Italian Anfiteatro Flavio or Colosseo)</em>, is an elliptical amphitheatre in the centre of the city of Rome, Italy, 
+the largest ever built in the Roman Empire, built of concrete and stone. It is considered one of the greatest works
+ of Roman architecture and Roman engineering.</p>
+</body>
+</html>
+
+
+

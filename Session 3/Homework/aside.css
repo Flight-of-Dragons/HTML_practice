@@ -1,0 +1,8 @@
+aside {
+	border:1px solid fuchsia;
+	}
+
+article.sidebar >p.aside {
+				display:tablecell;
+				padding-right:20px;
+			}

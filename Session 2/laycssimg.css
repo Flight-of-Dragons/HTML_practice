@@ -1,0 +1,23 @@
+img	{	width:75px;
+		height:90px;
+	}
+
+.float-right	{
+			float:right;
+			border:3px dashed red;
+		}
+
+.float-left	{
+			float:left;
+			border:3px dashed blue;
+		}
+
+.clear-right	{
+			clear:right;
+			background:aqua;
+		}
+
+.clear-both	{
+			clear:both;
+			background:orange;
+		}

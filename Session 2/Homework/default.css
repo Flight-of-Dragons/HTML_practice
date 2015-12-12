@@ -1,0 +1,17 @@
+hr {color:blue; background-color:blue; height:3px;}
+
+a:link {color:blue;}
+
+a:visited {color:green;}
+
+a:hover {color:lime;}
+
+a:active {color:red;}
+
+p, li {font-family:"verdana","Arial","Helvetica",sans-serif; font-size:13px;}
+
+.copyright {font-family:"Times New Roamn", "Times", serif;}
+
+ul {font-style:italic; font-weight:normal;}
+
+ol {font-weight:bold;}

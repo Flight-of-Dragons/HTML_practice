@@ -1,0 +1,33 @@
+<!doctype Html>
+<Html lang="en">
+<Head>
+	<Meta Charset="Utf-8">
+	<Title>World Travel</Title>
+	<link rel="stylesheet" href="default.css">
+</Head>
+
+<Body>
+<hgroup>
+	<a href="http://www.margiestravel.com" title="Home Page">
+		<img src="images/stamplarge.png" style="float:left; margin:8px; border:none;" height="75">
+	</a>
+	<img src="images/bluestamp.png" style="float:right; margin:8px; height="75">
+	<h1 style="text-align: center">Welcome to World Travel!</h1>
+	<i><h5 style="text-align: center">Leave the details to us, and leave your worries behind</h5></i>
+</hgroup>
+
+<p>Under Construction</p>
+
+<p>More content will be added here shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p><p>&nbsp;</p>
+
+<p class="copyright">
+Copyright &copy; world's Travel<br>
+No material may be reproduced without written permission<br>
+<a href="mailto:sunil.rakhit@btinternet.com.com">Contact Sunil</a></p>
+
+</body>
+</html>
